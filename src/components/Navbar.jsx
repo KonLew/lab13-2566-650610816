@@ -7,6 +7,8 @@ export const Navbar = () => {
         <Link href="/">Home</Link>
         <Link href="/movie">Movie</Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/search">Search</Link> 
+        {/* ทำให้มีลิงค์โผล่ */}
       </div>
       <hr />
     </div>
